@@ -78,7 +78,7 @@ function  draw() {
 }
 
 
-let game=setInterval(draw,222);
+let game=setInterval(draw,155);
 
 function isHeadOnFood()
 {	
