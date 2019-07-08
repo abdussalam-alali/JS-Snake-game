@@ -1,0 +1,11 @@
+{
+  "id": "5TeoQ1aLrI4",
+  "support": "api@youtube6download.top",
+  "info": "This is an API response in Json format. If you want you can also get direct text link, js, iframe embed code widgets from our website http:\/\/api.youtube6download.top\/",
+  "data": {
+    "html": "https:\/\/youtube7.download\/mini.php?id=5TeoQ1aLrI4",
+    "link": "<a href='https:\/\/youtube7.download\/mini.php?id=5TeoQ1aLrI4' style='text-decoration:none;color:#03a730;'><img src='\/\/api.youtube6download.top\/icon\/download.png' style='vertical-align:middle;'> <strong>Download MP3<\/strong><\/a>",
+    "js": "<script type=\"text\/javascript\" src=\"\/\/api.youtube6download.top\/fetch\/js.php?i=5TeoQ1aLrI4&r=youtube6\"><\/script> <noscript> <a href=\"https:\/\/api.youtube6download.top\/fetch\/link.php?i=5TeoQ1aLrI4&r=youtube6\">Download Link<\/a> <\/noscript>",
+    "iframe": "<iframe style=\"width:100%;min-width:200px;max-width:500px;height:57px;border:0;overflow:hidden;\" scrolling=\"no\" src=\"\/\/api.youtube6download.top\/fetch\/iframe.php?i=5TeoQ1aLrI4&r=youtube6&color=c91818\"><\/iframe>"
+  }
+}
